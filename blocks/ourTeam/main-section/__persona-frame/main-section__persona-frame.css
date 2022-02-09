@@ -1,0 +1,14 @@
+.main-section__persona-frame {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  overflow: hidden;
+  margin: 0 auto;
+  max-width: 1365px;
+  width: 100%;
+  box-shadow: 2px 2px 6px 0 rgb(0 0 0 / 50%);
+}
+
+.main-section__persona-frame:last-child {
+  margin: 93px auto 63px;
+}

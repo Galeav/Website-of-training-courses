@@ -1,0 +1,8 @@
+.navigation-section__nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  width: 962px; /*Временно фиксированное значение*/
+  height: 100%;
+}

@@ -1,0 +1,15 @@
+.header__back {
+  text-decoration: none;
+  display: block;
+  color: azure;
+  font-size: 56px;
+  line-height: 58px;
+  position: absolute;
+  top: 55px;
+  left: 40px;
+  transition: 1s;
+}
+
+.header__back:hover {
+  left: 30px;
+}

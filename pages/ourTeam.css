@@ -1,0 +1,23 @@
+@import url(../vendor/normalize.css);
+
+@import url(../vendor/fonts/inter.css);
+
+@import url(../blocks/body/body.css);
+
+@import url(../blocks/competence/page/page.css);
+
+@import url(../blocks/competence/header/header.css);
+@import url(../blocks/competence/header/__frame/header__frame.css);
+@import url(../blocks/competence/header/__title/header__title.css);
+@import url(../blocks/competence/header/__back/header__back.css);
+@import url(../blocks/ourTeam/header/header__ourTeam-pic.css);
+
+@import url(../blocks/ourTeam/main-section/main-section.css);
+@import url(../blocks/ourTeam/main-section/__persona-frame/main-section__persona-frame.css);
+@import url(../blocks/ourTeam/main-section/__text/main-section__text.css);
+@import url(../blocks/ourTeam/main-section/__avatar/main-section__avatar.css);
+@import url(../blocks/ourTeam/main-section/__avatar/_danil/main-section__avatar_danil.css);
+@import url(../blocks/ourTeam/main-section/__avatar/_sergey/main-section__avatar_sergey.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__author/footer__author.css);

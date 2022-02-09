@@ -1,0 +1,15 @@
+.professions__prof-cards {
+  margin: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.professions__prof-cards:first-child {
+  margin-left: 2px ;
+}
+
+.professions__prof-cards:last-child {
+  margin-right: 2px ;
+}

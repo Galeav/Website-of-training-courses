@@ -1,0 +1,8 @@
+.main-section__Salary-information {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  max-width: 620px;
+  margin-left: 100px;
+  z-index: 2;
+}

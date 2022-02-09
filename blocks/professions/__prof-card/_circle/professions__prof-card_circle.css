@@ -1,0 +1,16 @@
+.professions__prof-card_circle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: rgba(61, 60, 64, 0.75);
+  width: 220px;
+  height: 220px;
+  transition: 0.3s;
+}
+
+.professions__prof-card_circle:hover {
+  border: 3px solid rgba(79, 252, 145, 0.75);
+  width: 225px;
+  height: 225px;
+}

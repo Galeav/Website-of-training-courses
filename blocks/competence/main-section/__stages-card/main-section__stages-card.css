@@ -1,0 +1,9 @@
+.main-section__stages-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: contain;
+  margin: 0;
+  width: 220px;
+  height: 220px;
+}

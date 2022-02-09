@@ -1,0 +1,6 @@
+.main-section__stages-design {
+  display: flex;
+  position: relative;
+  max-width: 660px;
+  flex-wrap: wrap;
+}

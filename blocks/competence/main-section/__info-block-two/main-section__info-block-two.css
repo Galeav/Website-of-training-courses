@@ -1,0 +1,9 @@
+.main-section__info-block-two {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 18px auto;
+  max-width: 1397px;
+  z-index: 2;
+}

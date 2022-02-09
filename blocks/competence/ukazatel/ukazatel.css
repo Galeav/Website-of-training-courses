@@ -1,0 +1,6 @@
+.ukazatel {
+  position: absolute;
+  right: -170px;
+  top: -70px;
+  z-index: 1;
+}

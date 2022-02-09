@@ -1,0 +1,13 @@
+.navigation-section__element {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-left: 3px solid #CFECFF;;
+  width: 100%;
+  height: 100%;
+}
+
+.navigation-section__element:last-child {
+  border-right: 3px solid #CFECFF;;
+}

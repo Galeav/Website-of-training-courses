@@ -1,0 +1,45 @@
+@import url(../vendor/normalize.css);
+
+@import url(../vendor/fonts/inter.css);
+
+@import url(../blocks/body/body.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__line/header__line.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__logo/header__logo.css);
+
+@import url(../blocks/navigation-section/navigation-section.css);
+@import url(../blocks/navigation-section/__logo-block/navigation-section__logo-block.css);
+@import url(../blocks/navigation-section/__nav/navigation-section__nav.css);
+@import url(../blocks/navigation-section/__list/navigation-section__list.css);
+@import url(../blocks/navigation-section/__element/navigation-section__element.css);
+@import url(../blocks/navigation-section/__link/navigation-section__link.css);
+@import url(../blocks/navigation-section/__logo/navigation-section__logo.css);
+
+@import url(../blocks/main-section/main-section.css);
+@import url(../blocks/main-section/__gallery/main-section__gallery.css);
+@import url(../blocks/main-section/__gallery/_foto/main-section__gallery_foto.css);
+@import url(../blocks/main-section/__gallery/_foto/picA.css);
+@import url(../blocks/main-section/__gallery/_foto/picB.css);
+@import url(../blocks/main-section/__gallery/_foto/picC.css);
+
+
+@import url(../blocks/professions/professions.css);
+@import url(../blocks/professions/__prof-cards/professions__prof-cards.css);
+@import url(../blocks/professions/__prof-card/professions__prof-card.css);
+@import url(../blocks/professions/__link/professions__link.css);
+@import url(../blocks/professions/__prof-card/_circle/professions__prof-card_circle.css);
+@import url(../blocks/professions/__prof-card/text/professions__prof-card_text.css);
+@import url(../blocks/professions/__reactangle/professions__reactangle.css);
+@import url(../blocks/professions/__prof-card/_pic/prof-card_pic-web.css);
+@import url(../blocks/professions/__prof-card/_pic/prof-card_pic-dev.css);
+@import url(../blocks/professions/__prof-card/_pic/prof-card_pic-3d.css);
+@import url(../blocks/professions/__prof-card/_pic/prof-card_pic-cad.css);
+@import url(../blocks/professions/__prof-card/_pic/prof-card_pic-kt.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__author/footer__author.css);
+

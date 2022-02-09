@@ -1,0 +1,13 @@
+.main-section__gallery_foto {
+  display: flex;
+  align-items: center;
+  background-color: aliceblue;
+  width: 440px;
+  height: 320px;
+  margin: 17px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+.main-section__gallery_foto:last-child {
+  margin-right: 0;
+}

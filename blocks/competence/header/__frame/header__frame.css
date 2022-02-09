@@ -1,0 +1,12 @@
+.header__frame {
+  margin: 30px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 920px;
+  width: 96%;
+  padding: 0 20px;
+  height: 109px;
+  background-color: rgba(0, 0, 0, 0.58);
+  border-radius: 44px;
+}

@@ -1,0 +1,5 @@
+.professions {
+  margin: 25px auto 0;
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,76 @@
+@import url(../vendor/normalize.css);
+
+@import url(../vendor/fonts/inter.css);
+
+@import url(../blocks/body/body.css);
+
+@import url(../blocks/competence/page/page.css);
+
+@import url(../blocks/competence/header/header.css);
+@import url(../blocks/competence/header/__frame/header__frame.css);
+@import url(../blocks/competence/header/__title/header__title.css);
+@import url(../blocks/competence/header/__back/header__back.css);
+
+@import url(../blocks/competence/main-section/main-section.css);
+@import url(../blocks/competence/main-section/__info-block/main-section__info-block.css);
+@import url(../blocks/competence/main-section/__text/main-section__text.css);
+@import url(../blocks/competence/main-section/__pic/main-section__pic.css);
+@import url(../blocks/competence/main-section/__info-block-two/main-section__info-block-two.css);
+@import url(../blocks/competence/main-section/__stages-design/main-section__stages-design.css);
+@import url(../blocks/competence/main-section/__Salary-information/main-section__Salary-information.css);
+@import url(../blocks/competence/main-section/__Salary-information/_table/main-section__Salary-information_table.css);
+@import url(../blocks/competence/main-section/__Salary-information/_table/_tr/main-section__Salary-information_table_tr.css);
+@import url(../blocks/competence/main-section/__Salary-information/_table/_th/main-section__Salary-information_table_th.css);
+@import url(../blocks/competence/main-section/__Salary-information/_table/_td/main-section__Salary-information_table_td.css);
+@import url(../blocks/competence/main-section/__stages-design/main-section__stages-design.css);
+@import url(../blocks/competence/main-section/__stages-card/main-section__stages-card.css);
+@import url(../blocks/competence/main-section/__stages-card/_circle/main-section__stages-card_circle.css);
+@import url(../blocks/competence/main-section/__stages-card/_text/main-section__stages-card_text.css);
+/*Фон для мини карточек и шапка 3d modeling*/
+@import url(../blocks/competence/header/__pic-3dmodeling/header__pic-3dmodeling.css);
+@import url(../blocks/3dModeling/main-section/__backgroundPic/sketchi.css);
+@import url(../blocks/3dModeling/main-section/__backgroundPic/koncepti.css);
+@import url(../blocks/3dModeling/main-section/__backgroundPic/modeling.css);
+@import url(../blocks/3dModeling/main-section/__backgroundPic/rig.css);
+@import url(../blocks/3dModeling/main-section/__backgroundPic/animation.css);
+@import url(../blocks/3dModeling/main-section/__backgroundPic/texturing.css);
+/*Фон для мини карточек и шапка CAD*/
+@import url(../blocks/CADproektirovanie/header/header__pic-CAD.css);
+@import url(../blocks/CADproektirovanie/main-section/analysis.css);
+@import url(../blocks/CADproektirovanie/main-section/assembling.css);
+@import url(../blocks/CADproektirovanie/main-section/drawings.css);
+@import url(../blocks/CADproektirovanie/main-section/modelingCad.css);
+@import url(../blocks/CADproektirovanie/main-section/prototyping.css);
+@import url(../blocks/CADproektirovanie/main-section/reverse.css);
+/*Фон для мини карточек и шапка Dev*/
+@import url(../blocks/development/header/header__pic-dev.css);
+@import url(../blocks/development/main-section/algorithms.css);
+@import url(../blocks/development/main-section/data.css);
+@import url(../blocks/development/main-section/devProc.css);
+@import url(../blocks/development/main-section/launch.css);
+@import url(../blocks/development/main-section/python.css);
+@import url(../blocks/development/main-section/tz.css);
+/*Фон для мини карточек и шапка Web-Dev*/
+@import url(../blocks/webDev/header/__webDev/header__webDev.css);
+@import url(../blocks/webDev/main-section/buildLaunch.css);
+@import url(../blocks/webDev/main-section/devJS.css);
+@import url(../blocks/webDev/main-section/planning.css);
+@import url(../blocks/webDev/main-section/sqlPHP.css);
+@import url(../blocks/webDev/main-section/stylization.css);
+@import url(../blocks/webDev/main-section/verstka.css);
+/*Фон для мини карточек и шапка PCrepair*/
+@import url(../blocks/PCrepair/header/header__pc.css);
+@import url(../blocks/PCrepair/main-section/pcRepair__cs.css);
+@import url(../blocks/PCrepair/main-section/pcRepair__fixed.css);
+@import url(../blocks/PCrepair/main-section/pcRepair__netWork.css);
+@import url(../blocks/PCrepair/main-section/pcRepair__os.css);
+@import url(../blocks/PCrepair/main-section/pcRepair__po.css);
+@import url(../blocks/PCrepair/main-section/pcRepair__sborka.css);
+/**/
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__author/footer__author.css);
+
+/*Указатель в центре*/
+@import url(../blocks/competence/ukazatel/ukazatel.css);
+
